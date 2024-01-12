@@ -12,7 +12,7 @@ data = [-2, 45, 0, 11, -9]
 print('Before:')
 print(data)
 
-bubbleSort(data)
+bubblesort(data)
 
 print('After:')
 print(data)
