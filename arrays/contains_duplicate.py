@@ -9,7 +9,7 @@ def brute_force_duplicate_search(array):
                 return True
     return False
 
-array = [1,2,46,32,98,61,34,46]
+array = [1,2,46,32,98,61,34,46,46]
 print(brute_force_duplicate_search(array))
 
 #This is pretty simple, as we go through every possible pair of elements to check if they are the same.
