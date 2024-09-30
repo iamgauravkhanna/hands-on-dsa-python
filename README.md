@@ -1,3 +1,23 @@
-# hands-on-dsa-python
+# Data Structures
 
-DSA using Python
+## Arrays
+
+### Concepts
+
+- Insertion
+- Deletion
+
+### Practice Problems
+
+- Rotate an array
+
+<br>
+
+***
+***
+***
+
+<br>
+
+
+# Algorithms
