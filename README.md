@@ -15,7 +15,6 @@
 * **Creating arrays:**
     * Using the `list` constructor
     * Using list comprehension
-    * Using the numpy.array Function (for NumPy arrays)
 * **Accessing elements:**
     * Using index
 * **Modifying elements:**
@@ -39,9 +38,6 @@
 * **Multi-dimensional arrays:**
     * Creating and accessing
     * Matrix operations (addition, subtraction, multiplication)
-* **NumPy library:**
-    * Introduction and basic operations
-    * Advanced features (broadcasting, slicing, indexing)
 
 ## Practice Questions
 
