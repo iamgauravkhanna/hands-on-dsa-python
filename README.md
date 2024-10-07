@@ -76,3 +76,35 @@
 
 
 # Algorithms
+
+* Prefix Sum
+* Two Pointers
+* Sliding Window
+* Fast & Slow Pointers
+* LinkedList In-place Reversal
+* Monotonic Stack
+* Top ‘K’ Elements
+* Overlapping Intervals
+* Modified Binary Search
+* Binary Tree Traversal
+* Depth-First Search (DFS)
+* Breadth-First Search (BFS)
+* Matrix Traversal
+* Backtracking
+* Dynamic Programming Patterns
+
+
+<br>
+
+***
+***
+
+<br>
+
+
+## References
+
+- https://blog.algomaster.io/p/15-leetcode-patterns
+- https://tutorialhorizon.com/algorithms/
+- https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+- https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
