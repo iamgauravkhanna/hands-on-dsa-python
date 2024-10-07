@@ -45,27 +45,21 @@
 
 ## Practice Questions
 
-### Easy
-1. Create an array of integers and print the first and last elements.
-2. Given an array, find the sum of all its elements.
-3. Reverse an array in-place.
-4. Find the maximum and minimum elements in an array.
-5. Check if an array contains a given element.
-
-### Medium
-1. Implement linear search.
-2. Implement bubble sort.
-3. Find the second largest element in an array.
-4. Rotate an array by k positions.
-5. Given two arrays, find their intersection.
-
-### Hard
-1. Implement binary search.
-2. Merge two sorted arrays.
-3. Find the median of two sorted arrays of equal size.
-4. Find the longest common subsequence between two strings.
-5. Implement matrix multiplication.
-
+* Create an array of integers and print the first and last elements.
+*  Given an array, find the sum of all its elements.
+*  Reverse an array in-place.
+*  Find the maximum and minimum elements in an array.
+*  Check if an array contains a given element.
+*  Implement linear search.
+*  Implement bubble sort.
+*  Find the second largest element in an array.
+*  Rotate an array by k positions.
+*  Given two arrays, find their intersection.
+*  Implement binary search.
+*  Merge two sorted arrays.
+*  Find the median of two sorted arrays of equal size.
+*  Find the longest common subsequence between two strings.
+*  Implement matrix multiplication.
 
 <br>
 
