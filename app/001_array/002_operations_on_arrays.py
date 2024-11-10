@@ -1,6 +1,6 @@
 # Accessing elements
 
-numbers = [1,2,3,4,5,6,7,8,9,10]
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 print(numbers[0])
 
@@ -16,7 +16,7 @@ every_other_element = numbers[::2]
 print(every_other_element)
 
 # Reversing the array
-reversed_array = numbers[::-1] 
+reversed_array = numbers[::-1]
 
 print(reversed_array)
 

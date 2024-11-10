@@ -1,0 +1,15 @@
+https://www.geeksforgeeks.org/array-data-structure-guide/
+
+https://www.geeksforgeeks.org/string-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/linked-list-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/stack-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/queue-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/?ref=dhm
+
+https://www.geeksforgeeks.org/graph-data-structure/?ref=dhm

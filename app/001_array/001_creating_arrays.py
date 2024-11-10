@@ -4,8 +4,8 @@
 my_array = []
 
 # Creating an array with elements
-numbers = [1,2,3,4,5]
-fruits = ['apple','banana']
+numbers = [1, 2, 3, 4, 5]
+fruits = ['apple', 'banana']
 
 print(type(numbers))
 print(type(fruits))
@@ -24,10 +24,10 @@ print(even_numbers)
 
 # Using the numpy.array Function
 
-#import numpy as np
+# import numpy as np
 
 # Creating a NumPy array
-#numbers_np = np.array([1, 2, 3, 4, 5])
+# numbers_np = np.array([1, 2, 3, 4, 5])
 
 numbers = list(range(10))
 
